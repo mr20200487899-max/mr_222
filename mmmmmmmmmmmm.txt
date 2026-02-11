@@ -1,1 +1,2 @@
-laptop 16\512
+laptop 16\512 
+12 th generation
